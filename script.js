@@ -1,5 +1,3 @@
-$("img").attr("draggable","false")
-
 setInterval(() => {
     var date = new Date()
     var clock = document.getElementById("clock")
