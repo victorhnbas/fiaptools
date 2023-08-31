@@ -45,6 +45,11 @@ main h1{
   color: #000000;
   font-size: 4vh;
 }
+main h2{
+  color: #000000  ;
+  font-weight: 500;
+  margin: 1%;
+}
 main a{
   color: #f0145c;
 }
@@ -55,13 +60,14 @@ main a{
   align-items: center;
   justify-content: center;
   margin: 10px auto;
-  width: 178px;
-  height: 40px;
+  width: 180px;
+  height: 43px;
   color: #ffffff;
   background-color: #f0145c;
   border: 1px solid #f0145c;
   transition: 0.2s;
-  font-size: 2vh;
+  font-size: 2.2vh;
+  font-weight: 600;
 }
 .btn:hover{
   background-color: transparent;
